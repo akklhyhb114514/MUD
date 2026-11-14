@@ -5,3 +5,4 @@ If you want to try the original version(maybe programmed in 2021), run the çˆ½æ–
 And the MUD.py is a refresh version, although it's code is a piece of shit!
 There are alse many other versions, but most of them are unfinished, you can also download and try them.
 You would cosplay as a tradition Chinese magician and become stronger with your playing.
+You can alse run the dist dictionary to run the game directly on your PC.
